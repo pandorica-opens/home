@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rongxin Fang</title>
-    <link>/post/</link>
+    <link>https://r3fang.github.io/rongxin/post/</link>
     <description>Recent content in Posts on Rongxin Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://r3fang.github.io/rongxin/post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
