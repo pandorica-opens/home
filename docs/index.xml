@@ -10,5 +10,50 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/rongxin/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Analysis of Genetically Diverse Macrophages Reveals Local and Domain-wide Mechanisms that Control Transcription Factor Binding and Function</title>
+      <link>https://r3fang.github.io/rongxin/publication/link/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/rongxin/publication/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-nucleus analysis of accessible chromatin in developing mouse forebrain reveals cell-type-specific transcriptional regulation</title>
+      <link>https://r3fang.github.io/rongxin/publication/snatac-seq/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://r3fang.github.io/rongxin/publication/snatac-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tiling-deletion-based genetic screen for cis-regulatory element identification in mammalian cells</title>
+      <link>https://r3fang.github.io/rongxin/publication/crest-seq/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/rongxin/publication/crest-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping of long-range chromatin interactions by proximity ligation-assisted ChIP-seq</title>
+      <link>https://r3fang.github.io/rongxin/publication/plac-seq/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/rongxin/publication/plac-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional diversity of CTCFs is encoded in their binding motifs</title>
+      <link>https://r3fang.github.io/rongxin/publication/ctcf/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/rongxin/publication/ctcf/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
