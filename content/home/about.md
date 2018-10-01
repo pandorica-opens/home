@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Single-Cell Epigenetics",
+    "Single-Cell Epigenomics",
     "Gene Regulation",
     "Neuroepigenetics",
     "3D Genome Organization",
@@ -20,11 +20,10 @@ weight = 5
 [[education.courses]]
   course = "PhD in Bioinformatics"
   institution = "University of Calfornia, San Diego"
-  year = 2018
+  year = "2014-2018"
 
 +++
 
-# Biography
-
-I am a Bioinforamtics PhD student in the lab of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques and computational methods to analyze the heterogenity of regulatory programs in a complex tissue at the level of single cell. I am currently working in [BRAIN Initiative](https://www.braininitiative.nih.gov/) to generate a spatially resolved single-cell epigenome atlas of adult mouse brain. I am also interested in genome orgnaization and enhancer function, fancinated by the question how nearly 2-meter long genome fits into a tiny nucleus.
+# About me
+I am a Bioinforamtics PhD student in the laboratory of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques as well as computational methods to analyze the epigenomic heterogeneity of a complex tissue. I am currently working in the [BRAIN Initiative Project](https://www.braininitiative.nih.gov/) to generate a spatially resolved single-cell epigenome atlas of the adult mouse brain. I am also an amateur distant runner. 
 
