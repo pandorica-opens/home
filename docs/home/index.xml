@@ -1,142 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
-    <link>https://r3fang.github.io/rongxin/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <title>Homes on Rongxin Fang</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Rongxin Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://r3fang.github.io/rongxin/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://r3fang.github.io/rongxin/home/hero_carousel/</link>
+      <link>/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/hero_carousel/</guid>
+      <guid>/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://r3fang.github.io/rongxin/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <link>/home/about/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <guid>/home/about/</guid>
+      <description>Biography I am a Bioinforamtics PhD student in the lab of Dr. Bing Ren. My research primarily foucuses on developing new techniques and computational methods to analyze the heterogenity of regulatory programs in a complex tissue at the level of single cell. I am currently working in BRAIN Initiative to generate a spatially resolved single-cell epigenome atlas of adult mouse brain. I am also interested in genome orgnaization and enhancer function, fancinated by the question how nearly 2-meter long genome fits into a tiny nucleus.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://r3fang.github.io/rongxin/home/skills/</link>
+      <link>/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/skills/</guid>
+      <guid>/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>https://r3fang.github.io/rongxin/home/experience/</link>
+      <title>Research Experience</title>
+      <link>/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/experience/</guid>
+      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://r3fang.github.io/rongxin/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://r3fang.github.io/rongxin/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://r3fang.github.io/rongxin/home/talks_selected/</link>
+      <link>/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/talks_selected/</guid>
+      <guid>/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://r3fang.github.io/rongxin/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://r3fang.github.io/rongxin/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://r3fang.github.io/rongxin/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>https://r3fang.github.io/rongxin/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://r3fang.github.io/rongxin/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://r3fang.github.io/rongxin/home/search/</link>
+      <link>/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/search/</guid>
+      <guid>/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://r3fang.github.io/rongxin/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://r3fang.github.io/rongxin/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
