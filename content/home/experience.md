@@ -27,10 +27,10 @@ date_format = "January 2006"
   date_start = "2015-09-30"
   date_end = ""
   description = """
-  * Developing snapR, a R package for single-nucleus ATAC-seq analysis (*in progress*).
-  * Applied multiplexing single nucleus ATAC-seq to delineate cis-regulatory landscapes of constitute cell types in a frozen complex tissue (*[Nature Neurosciences](https://www.nature.com/articles/s41593-018-0079-3)*).
-  * Invented PLAC-seq (aka HiChIP) to map long-range chromatin interaction, improving the cost-efficiency by at least 10 fold compared to the previous method (*[Cell Research](https://www.nature.com/articles/cr2016137)*).
-  * Developed CREST-seq, a titling deletion based CRISPR screening method to identify DNA regulatory elements, revealing enhancer elements for OCT4 (*[Nature Methods](https://www.nature.com/articles/nmeth.4264)*).
+  * Developing snapR, a R package for single-nucleus ATAC-seq analysis (in progress).
+  * Applied multiplexing single nucleus ATAC-seq to delineate cis-regulatory landscapes of constitute cell types in a frozen complex tissue ([Nature Neurosciences](https://www.nature.com/articles/s41593-018-0079-3)).
+  * Invented PLAC-seq (aka HiChIP) to map long-range chromatin interaction, improving the cost-efficiency by at least 10 fold compared to the previous method ([Cell Research](https://www.nature.com/articles/cr2016137)).
+  * Developed CREST-seq, a titling deletion based CRISPR screening method to identify DNA regulatory elements, revealing enhancer elements for OCT4 ([Nature Methods](https://www.nature.com/articles/nmeth.4264)).
   * Applied convolutional neural networks to predict enhancer target genes.
   """
   
@@ -77,6 +77,6 @@ date_format = "January 2006"
   date_end = "2013-11-01"
   description = """
   * Developed a motif discovery pipeline that identified three CTCF binding motifs and revealed distinctive functional enrichments between the three motifs by integrative analysis of various "omics" datasets.
-  * Discovered that methylation status at 12th bp of the CTCF core motif might determine its function (*[BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1824-6)*).  
+  * Discovered that methylation status at 12th bp of the CTCF core motif might determine its function ([BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1824-6)).  
   """
 +++

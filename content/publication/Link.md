@@ -4,7 +4,7 @@ date = 2018-06-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Verena M.Link, Sascha H.Duttke, Hyun B.Chun, Inge R.Holtman, EmmaWestin, Marten A.Hoeksema, Yohei Abe, Dylan Skola, Casey E. Romanoski, Jenhan Tao, Gregory J. Fonseca, Ty D. Troutman, Nathanael J. Spann, Tobias Strid, Mashito Sakai, Miao Yu, Rong Hu, Rongxin Fang, Dirk Metzler, Bing Ren, Christopher K.Glass"]
+authors = ["Verena M.Link, Sascha H.Duttke, Hyun B.Chun, Inge R.Holtman, EmmaWestin, Marten A.Hoeksema, Yohei Abe, Dylan Skola, Casey E. Romanoski, Jenhan Tao, Gregory J. Fonseca, Ty D. Troutman, Nathanael J. Spann, Tobias Strid, Mashito Sakai, Miao Yu, Rong Hu, **Rongxin Fang**, Dirk Metzler, Bing Ren, Christopher K.Glass"]
 
 # Publication type.
 # Legend:

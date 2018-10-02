@@ -4,7 +4,8 @@ date = 2017-04-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yarui Diao\\*, Rongxin Fang\\*, Bin Li\\* ..., Bing Ren (*equal contribution)"]
+authors = ["Yarui Diao\\*, **Rongxin Fang\\***, Bin Li\\*, Zhipeng Meng, Juntao Yu, Yunjiang Qiu, Kimberly C Lin, Hui Huang, Tristin Liu, Ryan J Marina, Inkyung Jung, Yin Shen, Kun-Liang Guan & Bing Ren (*equal contribution)"]
+
 
 # Publication type.
 # Legend:
@@ -43,7 +44,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/nmeth.4264.pdf"
+url_pdf = "http://renlab.sdsc.edu/r3fang/homepage/publications/CREST_seq.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -69,6 +70,6 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "CREST_seq.jpg"
+image = ""
 
 +++

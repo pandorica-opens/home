@@ -4,7 +4,7 @@ date = 2016-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rongxin Fang\\*, Miao Yu\\*, ..., Bing Ren (*equal contribution)"]
+authors = ["**Rongxin Fang**\\*, Miao Yu\\*, Guoqiang Li, Sora Chee, Tristin Liu, Anthony D Schmitt & Bing Ren (*equal contribution)"]
 
 # Publication type.
 # Legend:
@@ -43,7 +43,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/cr2016137"
+url_pdf = "http://renlab.sdsc.edu/r3fang/homepage/publications/PLAC_seq.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1038/cr.2016.1373"
+doi = "10.1038/cr.2016.137"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -69,6 +69,6 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "PLAC_seq.jpg"
+image = ""
 
 +++

@@ -4,7 +4,7 @@ date = 2018-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sebastian Preissl\\*, Rongxin Fang\\*, ..., Bing Ren (* equal contribution)"]
+authors = ["Sebastian Preissl\\*, **Rongxin Fang**\\*, Hui Huang, Yuan Zhao, Ramya Raviram, David U. Gorkin, Yanxiao Zhang, Brandon C. Sos, Veena Afzal, Diane E. Dickel, Samantha Kuan, Axel Visel, Len A. Pennacchio, Kun Zhang & Bing Ren (*equal contribution)"]
 
 # Publication type.
 # Legend:
@@ -43,7 +43,7 @@ selected = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/s41593-018-0079-3"
+url_pdf = "http://renlab.sdsc.edu/r3fang//homepage/publications/snATAC_seq.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -69,6 +69,6 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "snATAC_seq.jpg"
+image = ""
 
 +++
