@@ -25,5 +25,4 @@ weight = 5
 +++
 
 # About me
-I am a Bioinforamtics PhD student in the laboratory of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques and computational methods to analyze the epigenomic heterogeneity of complex tissue. I am currently working in [BRAIN Initiative Project](https://www.braininitiative.nih.gov/) to generate a spatially resolved single-cell epigenome atlas of mouse brain. Outside science, I am an amateur distant runner. 
-
+I am a Bioinforamtics PhD student in the laboratory of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques and computational methods to analyze the epigenomic heterogeneity of complex tissue. I am currently working as a part of [BRAIN Initiative Project](https://www.braininitiative.nih.gov/) to generate a single-cell epigenome atlas of mouse brain. Outside science, I am an amateur distant runner. 
