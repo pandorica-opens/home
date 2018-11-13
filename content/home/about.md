@@ -25,4 +25,4 @@ weight = 5
 +++
 
 # About me
-I am a Bioinforamtics PhD student in the laboratory of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques and computational methods to understand gene regulation at the level of single cell. As a part of [BRAIN Initiative Project](https://www.braininitiative.nih.gov/), I am currently working on generating a spatially resolved single-cell atlas of mouse brain.
+I am a Bioinforamtics PhD student in the laboratory of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques and computational methods to understand gene regulation at the level of single cell. As a part of [BRAIN Initiative Project](https://www.braininitiative.nih.gov/), I am currently working on constructing a spatially resolved single-cell atlas of mouse brain.

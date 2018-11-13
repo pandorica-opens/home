@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rongxin Fang on Rongxin Fang</title>
+    <link>https://r3fang.github.io/home/</link>
+    <description>Recent content in Rongxin Fang on Rongxin Fang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analysis of Genetically Diverse Macrophages Reveals Local and Domain-wide Mechanisms that Control Transcription Factor Binding and Function</title>
+      <link>https://r3fang.github.io/home/publication/link/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/home/publication/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAPS: model-based analysis of long-range chromatin interactions from PLAC-seq and HiChIP experiments</title>
+      <link>https://r3fang.github.io/home/publication/juric/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://r3fang.github.io/home/publication/juric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-nucleus analysis of accessible chromatin in developing mouse forebrain reveals cell-type-specific transcriptional regulation</title>
+      <link>https://r3fang.github.io/home/publication/snatac-seq/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://r3fang.github.io/home/publication/snatac-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tiling-deletion-based genetic screen for cis-regulatory element identification in mammalian cells</title>
+      <link>https://r3fang.github.io/home/publication/crest-seq/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/home/publication/crest-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal DNA Methylome Dynamics of the Developing Mammalian Fetus</title>
+      <link>https://r3fang.github.io/home/publication/he/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://r3fang.github.io/home/publication/he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping of long-range chromatin interactions by proximity ligation-assisted ChIP-seq</title>
+      <link>https://r3fang.github.io/home/publication/plac-seq/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/home/publication/plac-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional diversity of CTCFs is encoded in their binding motifs</title>
+      <link>https://r3fang.github.io/home/publication/ctcf/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://r3fang.github.io/home/publication/ctcf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
