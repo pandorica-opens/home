@@ -1,4 +1,0 @@
-hugo -d .
-<title>Rongxin Fang, Bioinformatics PhD, Bing Ren Lab, UC San Diego, Ludwig Cancer Research</title>
-<link rel="icon" type="image/jpg" href="/home/img/rongxin.jpg">
-<link rel="apple-touch-icon" type="image/jpg" href="/home/img/rongxin.jpg">
