@@ -2,140 +2,140 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Rongxin Fang</title>
-    <link>http://www.rfang.org/home/</link>
+    <link>https://r3fang.github.io/home/home/</link>
     <description>Recent content in Homes on Rongxin Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="http://www.rfang.org/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://r3fang.github.io/home/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.rfang.org/home/hero_carousel/</link>
+      <link>https://r3fang.github.io/home/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/hero_carousel/</guid>
+      <guid>https://r3fang.github.io/home/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.rfang.org/home/about/</link>
+      <link>https://r3fang.github.io/home/home/about/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 -0800</pubDate>
       
-      <guid>http://www.rfang.org/home/about/</guid>
+      <guid>https://r3fang.github.io/home/home/about/</guid>
       <description>About me I am a Bioinforamtics PhD student in the laboratory of Dr. Bing Ren. My research primarily foucuses on developing new techniques and computational methods to understand gene regulation at the level of single cell. As a part of BRAIN Initiative Project, I am currently working on constructing a spatially resolved single-cell atlas of mouse brain.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://www.rfang.org/home/skills/</link>
+      <link>https://r3fang.github.io/home/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/skills/</guid>
+      <guid>https://r3fang.github.io/home/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research Experience</title>
-      <link>http://www.rfang.org/home/experience/</link>
+      <link>https://r3fang.github.io/home/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rfang.org/home/experience/</guid>
+      <guid>https://r3fang.github.io/home/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>http://www.rfang.org/home/publications_selected/</link>
+      <link>https://r3fang.github.io/home/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/publications_selected/</guid>
+      <guid>https://r3fang.github.io/home/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://www.rfang.org/home/publications/</link>
+      <link>https://r3fang.github.io/home/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/publications/</guid>
+      <guid>https://r3fang.github.io/home/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>http://www.rfang.org/home/talks_selected/</link>
+      <link>https://r3fang.github.io/home/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/talks_selected/</guid>
+      <guid>https://r3fang.github.io/home/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://www.rfang.org/home/talks/</link>
+      <link>https://r3fang.github.io/home/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/talks/</guid>
+      <guid>https://r3fang.github.io/home/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://www.rfang.org/home/posts/</link>
+      <link>https://r3fang.github.io/home/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/posts/</guid>
+      <guid>https://r3fang.github.io/home/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.rfang.org/home/projects/</link>
+      <link>https://r3fang.github.io/home/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/projects/</guid>
+      <guid>https://r3fang.github.io/home/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>http://www.rfang.org/home/teaching/</link>
+      <link>https://r3fang.github.io/home/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/teaching/</guid>
+      <guid>https://r3fang.github.io/home/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://www.rfang.org/home/tags/</link>
+      <link>https://r3fang.github.io/home/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/tags/</guid>
+      <guid>https://r3fang.github.io/home/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>http://www.rfang.org/home/search/</link>
+      <link>https://r3fang.github.io/home/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/search/</guid>
+      <guid>https://r3fang.github.io/home/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.rfang.org/home/contact/</link>
+      <link>https://r3fang.github.io/home/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://www.rfang.org/home/contact/</guid>
+      <guid>https://r3fang.github.io/home/home/contact/</guid>
       <description></description>
     </item>
     

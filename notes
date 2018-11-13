@@ -1,0 +1,30 @@
+hugo -d docs/
+<title>Rongxin Fang, Bioinformatics PhD, Bing Ren Lab, UC San Diego, Ludwig Cancer Research</title>
+<link rel="icon" type="image/jpg" href="/home/img/rongxin.jpg">
+<link rel="apple-touch-icon" type="image/jpg" href="/home/img/rongxin.jpg">
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2018 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
