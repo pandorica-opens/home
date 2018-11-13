@@ -27,11 +27,15 @@ date_format = "January 2006"
   date_start = "2015-09-30"
   date_end = ""
   description = """
-  * Developing snapR, a R package for single-nucleus ATAC-seq analysis (in progress).
-  * Applied multiplexing single nucleus ATAC-seq to delineate cis-regulatory landscapes of constitute cell types in a frozen complex tissue ([Nature Neurosciences](https://www.nature.com/articles/s41593-018-0079-3)).
+  * Developing snapR, a bioinformatics package that facilitates pre-processing, clustering, annotation for single-nucleus ATAC-seq analysis (in progress).
+  * Constructed a cellular taxonomy of motor cortex in adult mouse brain using single cell ATAC sequencing.
+  * Applied Latent Dirichlet Allocation (LDA) to single cell ATAC-seq data to identify cell-type specific regulatory modules.
+  * Developed network-based analysis methods for analyzing single cell Hi-C datasets.
+  * Characterized the dynamic of genome structure at the level of single cell during early neuronal differentiation.   
+  * Developed and Applied multiplexed single nucleus ATAC-seq to delineate cis-regulatory landscapes of constitute cell types in a frozen complex tissue ([Nature Neurosciences](https://www.nature.com/articles/s41593-018-0079-3)).
   * Invented PLAC-seq (aka HiChIP) to map long-range chromatin interaction, improving the cost-efficiency by at least 10 fold compared to the previous method ([Cell Research](https://www.nature.com/articles/cr2016137)).
-  * Developed CREST-seq, a titling deletion based CRISPR screening method to identify DNA regulatory elements, revealing enhancer elements for OCT4 ([Nature Methods](https://www.nature.com/articles/nmeth.4264)).
-  * Applied convolutional neural networks to predict enhancer target genes.
+  * Developed CREST-seq, a titling deletion based CRISPR screening method to identify DNA regulatory elements, revealing enhancer elements for OCT4 gene ([Nature Methods](https://www.nature.com/articles/nmeth.4264)).
+  * Applied convolutional neural networks to predict enhancer target genes using multi-omics data.
   """
   
 [[experience]]
@@ -42,7 +46,7 @@ date_format = "January 2006"
   date_start = "2015-07-01"
   date_end = "2015-09-30"
   description = """  
-  * Developed a RNA-seq aligner within 2 months to detect structural variants in breast cancer from targeted RNA-seq, resulting in Illumina BaseSpace application and integrated in TruSight RNA/Tumor Fusion products (https://github.com/r3fang/TaFuCo)
+  * Developed a RNA-seq aligner within 2 months to detect structural variants in breast cancer using targeted RNA-seq, resulting in Illumina BaseSpace application and integrated into TruSight RNA/Tumor Fusion products (https://github.com/r3fang/TaFuCo)
   """
 
 [[experience]]

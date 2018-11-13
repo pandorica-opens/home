@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-09-30T00:00:00
+date = 2018-11-11T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Single-Cell Epigenomics",
-    "Gene Regulation",
     "Neuroepigenetics",
+    "Gene Regulation",
     "3D Genome Organization",
   ]
 
@@ -25,4 +25,4 @@ weight = 5
 +++
 
 # About me
-I am a Bioinforamtics PhD student in the laboratory of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques and computational methods to analyze the epigenomic heterogeneity of complex tissue. I am currently working as a part of [BRAIN Initiative Project](https://www.braininitiative.nih.gov/) to generate a single-cell epigenome atlas of mouse brain. Outside science, I am an amateur distant runner. 
+I am a Bioinforamtics PhD student in the laboratory of [Dr. Bing Ren](https://www.ludwigcancerresearch.org/location/san-diego-branch/bing-ren-lab). My research primarily foucuses on developing new techniques and computational methods to understand gene regulation at the level of single cell. As a part of [BRAIN Initiative Project](https://www.braininitiative.nih.gov/), I am currently working on generating a spatially resolved single-cell atlas of mouse brain.
